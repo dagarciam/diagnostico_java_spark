@@ -1,7 +1,6 @@
 # Examen Diagnostico JAVA to Big Data v2
 **cuentas con 24 horas para resolver el ejercicio**
 
-
 ## Instrucciones
 
 1. Realizar un clone de este proyecto.
